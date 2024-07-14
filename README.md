@@ -42,7 +42,7 @@ Genius API:
 2. Replace "YOUR_GENIUS_API_TOKEN" in the code with your access token.
 
 
-## Make sure to generate the pickle files with the ipynb files and then run the app.py
+## Make sure to generate the pickle files with the ipynb file and then run the app.py
 
 ## Run the Streamlit app
 streamlit run app.py
